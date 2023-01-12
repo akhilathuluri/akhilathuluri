@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [E-Commerce Website](https://akhilathuluri.github.io/ecommerce/)
 
-- 🌱 I’m currently learning **AWS,BOOTSTRAP,PHP**
+- 🌱 I’m currently learning **Azure,BOOTSTRAP,PHP**
 
 - 🤝 I’m looking for help with [E-Commerce Website](https://akhilathuluri.github.io/ecommerce/)
 
