@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/akhilathuluri1" target="blank"><img src="https://img.shields.io/twitter/follow/akhilathuluri1?logo=twitter&style=for-the-badge" alt="akhilathuluri1" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Website](https://akhilathuluri.github.io/ecommerce/)
-
 - 🌱 I’m currently learning **Azure,BOOTSTRAP,PHP**
-
-- 🤝 I’m looking for help with [E-Commerce Website](https://akhilathuluri.github.io/ecommerce/)
 
 - 📝 I regularly write articles on [https://theprevioustech.blogspot.com/](https://theprevioustech.blogspot.com/)
 
